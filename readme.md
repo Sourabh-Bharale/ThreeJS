@@ -1,4 +1,4 @@
-# Three.js Journey
+# [imported models](https://gltf-three.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
