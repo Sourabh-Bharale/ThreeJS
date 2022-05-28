@@ -1,4 +1,4 @@
-# [imported models](https://gltf-three.vercel.app/)
+# [website 🚀](https://gltf-three.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
